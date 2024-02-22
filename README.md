@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** and **Robotics**
 
 - 📫 How to reach me **aakrist.godar.1@gmail.com**
 
