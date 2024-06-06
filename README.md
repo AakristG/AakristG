@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakristg&label=Profile%20views&color=0e75b6&style=flat" alt="aakristg" /> </p>
 
-- 🔭 I’m currently working on the website for my non profit **Second Bite Initiative**
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **C++**
 
 - 💬 Ask me about **Java** and **Robotics**
 
