@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aakrist.godar.1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ivm_q1rAuU6mIClog2_z3EBb-lP-FcV_8cdmdx9dqdg/edit?usp=sharing](https://docs.google.com/document/d/1ivm_q1rAuU6mIClog2_z3EBb-lP-FcV_8cdmdx9dqdg/edit?usp=sharing)
+- 📄 Know about my experiences: https://docs.google.com/document/d/140wDi3uCYr79kGKcYqKbOwKZjfHPeMTKTsfOjink_VI/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
