@@ -20,5 +20,5 @@
 [<summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Aakrist's GitHub stats" src = "https://github-readme-stats.vercel.app/api/top-langs?username=aakristg/api?username=aakristg&show_icons=true&hide_border=true" />
 </details> -->
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakristg&" alt="aakristg" /></p>
+<pre>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakristg&" alt="aakristg" /></p> </pre>
