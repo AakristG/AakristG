@@ -24,9 +24,13 @@ https://docs.google.com/document/d/140wDi3uCYr79kGKcYqKbOwKZjfHPeMTKTsfOjink_VI/
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakristG)](https://github.com/AakristG/github-readme-stats)
+<!-- This is for GitHub Stats
+[![Aakrist's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakristG)](https://github.com/AakristG/github-readme-stats) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakristg&show_icons=true&locale=en&layout=compact" alt="aakristg" /></p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakristG)](https://github.com/AakristG/github-readme-stats)
+
+
 
 <!--<details>
 [<summary>:zap: GitHub Stats</summary>
