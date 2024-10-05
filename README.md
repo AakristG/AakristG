@@ -14,7 +14,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cplusplus.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" />  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pytorch.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakristg&show_icons=true&locale=en&layout=compact" alt="aakristg" /></p>
 
