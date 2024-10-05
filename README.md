@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Aakrist Godar</h1>
-<h3 align="center">A determined high school CS student who is passionate about coding, and want to pursue a bachelors in Computer Science.</h3>
+<h3 align="center">A determined CS student who is passionate about coding and pursuing bachelors in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakristg&label=Profile%20views&color=0e75b6&style=flat" alt="aakristg" /> </p>
 
