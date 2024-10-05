@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakristg&label=Profile%20views&color=0e75b6&style=flat" alt="aakristg" /> </p>
 <h2 align="left">I'm Student, Researcher, Developer, Mentor, and a Mentee! </h2>
 
-- 📄 Know about my experiences: https://docs.google.com/document/d/140wDi3uCYr79kGKcYqKbOwKZjfHPeMTKTsfOjink_VI/edit?usp=sharing
+- 📄 Know about my experiences: 
+https://docs.google.com/document/d/140wDi3uCYr79kGKcYqKbOwKZjfHPeMTKTsfOjink_VI/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
