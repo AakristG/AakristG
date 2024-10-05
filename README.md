@@ -7,12 +7,11 @@
 https://docs.google.com/document/d/140wDi3uCYr79kGKcYqKbOwKZjfHPeMTKTsfOjink_VI/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
-<pre>
 <p align="left">
 <a href="https://www.linkedin.com/in/aakristg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <!--<a href="aakrist.godar.1@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a> -->
 </p>
-</pre>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
