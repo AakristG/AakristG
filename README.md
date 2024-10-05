@@ -27,6 +27,7 @@
 [![Aakrist's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakristG)](https://github.com/AakristG/github-readme-stats) -->
 
 <p> This is slighty inaccurate because it doesn't account for repos that are under the ownership of others that I have committed to. However, it does give an indication towards my skills. </p>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakristG&layout=compact)](https://github.com/AakristG/github-readme-stats&layout=compact)
 
 
