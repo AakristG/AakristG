@@ -28,7 +28,7 @@ https://docs.google.com/document/d/140wDi3uCYr79kGKcYqKbOwKZjfHPeMTKTsfOjink_VI/
 [![Aakrist's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakristG)](https://github.com/AakristG/github-readme-stats) -->
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakristG)](https://github.com/AakristG/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakristG&layout=compact)](https://github.com/AakristG/github-readme-stats&layout=compact)
 
 
 
