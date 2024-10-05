@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aakristg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="aakrist.godar.1@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<!--<a href="aakrist.godar.1@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
