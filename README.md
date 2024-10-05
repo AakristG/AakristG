@@ -16,6 +16,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakristg&show_icons=true&locale=en&layout=compact" alt="aakristg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakristg&show_icons=true&locale=en" alt="aakristg" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Aakrist's GitHub stats" src = "https://github-readme-stats-sable-six.vercel.app/api?username=aakristg&show_icons=true&hide_border=true" />
+</details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakristg&" alt="aakristg" /></p>
