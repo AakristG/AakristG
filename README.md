@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg />
+<p align="left"> <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
