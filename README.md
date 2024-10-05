@@ -12,15 +12,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" />
+<p align="left"> <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg />
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" />  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pytorch.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />  
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakristg&show_icons=true&locale=en&layout=compact" alt="aakristg" /></p>
 
