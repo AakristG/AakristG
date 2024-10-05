@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakristg&label=Profile%20views&color=0e75b6&style=flat" alt="aakristg" /> </p>
 
-- 🌱 I’m currently learning **Python** and **C++**
+- 🌱 I’m currently learning **PyTorch**, **TensorFlow**, and **C++** while researching about **Stable Diffusion** models
 
-- 💬 Ask me about **Java** and **Robotics**
+- 💬 Ask me about **Java**, **Web Development**, **Machine Learning**, and **Robotics**
 
 - 📫 How to reach me **aakrist.godar.1@gmail.com**
 
